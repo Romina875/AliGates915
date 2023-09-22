@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ali G@te$</h1>
-<h3 align="center">I am Full Stack Web Developer </h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm ROMINA MIR</h1>
+<h3 align="center">I am a Frontend Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligates915&label=Profile%20views&color=0e75b6&style=flat" alt="aligates915" /> </p>
 
@@ -13,19 +13,12 @@
 - Lives in Okara Punjab, Pakistan.
 - 2021-2023
 - I’m currently preparing for Projects at Industrial Level.
-- Currently working on **DSA USING C++**
-
-
-
-- 🌱 I’m currently learning **MYSQL, JavaScript,Express Framework, MonoDB,TypeScript, Node.JS**
-
+- Currently working on **HTML,CSS,JSP**
 - 👯 I’m looking to collaborate on **https://github.com/rrkjr04**
 
 - 🤝 I’m looking for help with **https://github.com/rrkjr04**
 
-- 📫 How to reach me **hacktech877@gmail.com**
-- 🌱 CodeChef: https://www.codechef.com/users/aligates915
-
+- 📫 How to reach me **rominamir213@gmail.com**
 - ⚡ Fun fact **I think I am Funny**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
